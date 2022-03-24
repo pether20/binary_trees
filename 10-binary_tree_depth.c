@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_height - it is a function to create node
+ * binary_tree_depth - it is a function to create node
  * @tree: pointer to the parent node
  *
  * Return: the height of a tree
