@@ -4,7 +4,7 @@
  * binary_tree_height - it is a function to create node
  * @tree: pointer to the parent node
  *
- *
+ * Return: the height of a tree
  */
 
 size_t binary_tree_height(const binary_tree_t *tree)
@@ -36,11 +36,8 @@ size_t binary_tree_height(const binary_tree_t *tree)
 
 int max(int num1, int num2)
 {
-	int result;
-
 	if (num1 > num2)
-		result = num1;
+		return (num1);
 	else
-		result = num2;
-	return (result);
+		return num2;
 }
