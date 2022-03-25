@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_leaves - it is a function find leaves
+ * binary_tree_nodes - it is a function find leaves
  * @tree: pointer to the parent node
  *
  * Return: the leaves of a tree
