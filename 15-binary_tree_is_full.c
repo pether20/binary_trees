@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * inary_tree_is_full - it is a function find height
+ * binary_tree_is_full - it is a function find height
  * @tree: pointer to the parent node
  *
  * Return: the full 1 or not 0
